@@ -1,0 +1,58 @@
+# astro-Jupyter: Simple astrophysics in Python/Jupyter
+
+**Colin Leach, 2018**
+
+There were two distinct objectives in creating these notebooks.
+
+1. I have an interest in astrophysics and am trying to learn more about it. Writing some code at the undergraduate demo level is useful practice. Obviously, this is NOT research-grade code; not even close.
+
+2. Jupyter notebooks, Matplotlib and VPython have all been under active development in recent years, adding interesting new capabilities. Inevitably, the documentation occasionally falls a little behind the pace. I have been trying to work out what can be done with the newer features (part education, part playing).
+
+## Setup
+
+To run these notebooks you will Python 3, NumPy, AstroPy and a ***recent*** (at least v 2.1) version of Matplotlib. These come standard with a default Anaconda 3 installation.
+
+The interactive widgets need to be initialized each time the notebook is opened, so it is highly recommended to start with Cell-Run All.
+
+## Notebooks
+
+- blackbody.ipynb: basics of blackbody radiation
+- NewtonianOrbit.ipynb: Kepler and the gravitational 1-body problem
+- StellarBinary.ipynb: the gravitational 2-body problem and binary stars
+
+## References
+
+Several standard textbooks are referenced within the notebooks. These include:
+
+```
+"An Introduction to Modern Astrophysics"
+Bradley W. Carroll and Dale A. Ostlie
+Second Edition, Addison Wesley, 2007
+
+"Principles of Astrophysics"
+Charles Keeton
+Springer, 2014
+
+"Solar System Dynamics"
+C.D. Murray and S.F. Dermott
+Cambridge University Press, 1999
+
+"Stars and Stellar Evolution"
+K.S. de Boer and W. Seggewiss
+EDP Sciences, 2008
+```
+
+Additionally, some of these authors supply sample code for download:
+
+- Carroll and Ostlie at [http://wps.aw.com/aw_carroll_ostlie_astro_2e/48/12319/3153834.cw/index.html](http://wps.aw.com/aw_carroll_ostlie_astro_2e/48/12319/3153834.cw/index.html) (Fortran and C++)
+
+- Murray and Dermott at [http://ssdbook.maths.qmul.ac.uk/addinfo/notebook.html](http://ssdbook.maths.qmul.ac.uk/addinfo/notebook.html) (Mathematica)
+
+None of my notebooks are simple translations (and Carroll/Ostlie expicitly asked me not to post such code), but borrowing some functions was useful and is acknowledged in the notebooks.
+
+## Courses
+
+Through the kindness of friends, I am being allowed to audit a course at Steward Observatory, University of Arizona: ASTR 300A, "Dymamics and Mechanics in Astrophysics". Many thanks to Prof Kaitlin Kratter and Michael Hammer for their support in the class, and Ruth McCucheon for her help in setting it up.
+
+
+
