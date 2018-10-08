@@ -66,7 +66,7 @@ MOOCs are a great help to those of us who are no longer full-time students. Astr
 - Caltech, [The Evolving Universe](https://www.coursera.org/learn/evolvinguniverse), Prof Djorgovski giving a broad introductory course
 - Caltech, Galaxies and Cosmology (sadly, unavailable currently), a follow-on course from Prof Djorgovski, taking you on a challenging ride into relativistic cosmology
 - Edinburgh, [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/learn/astronomy-technology), a (gentler) tour of how astronomy is done in practice
-- Caltech, [The Science of the Solar System](https://www.coursera.org/learn/solar-system), a must-take, brilliant course in which Prof Mike Brown (#plutokiller) discusses some (quite advanced) aspects of planetary science in his inimitable style
+- Caltech, [The Science of the Solar System](https://www.coursera.org/learn/solar-system), a must-take, brilliant course in which Prof Mike Brown (@plutokiller) discusses some (quite advanced) aspects of planetary science in his inimitable style
 - Sydney, [Data Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy), emphasizes computation and data handling
 - Rutgers, [Analyzing the Universe](https://www.coursera.org/learn/analyze), another data-biased course
 - Duke, Introduction to Astronomy (currently unavailable?), a broad and quite personal tour of the subject with Prof Ronen Plesser
