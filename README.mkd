@@ -10,7 +10,7 @@ There were two distinct objectives in creating these notebooks.
 
 ## Setup
 
-To run these notebooks you will Python 3, NumPy, AstroPy and a ***recent*** (at least v 2.1) version of Matplotlib. These come standard with a default Anaconda 3 installation.
+To run these notebooks you will need Python 3, NumPy, AstroPy and a ***recent*** (at least v 2.1) version of Matplotlib. These come standard with a default Anaconda 3 installation.
 
 The interactive widgets need to be initialized each time the notebook is opened, so it is highly recommended to start with Cell-Run All.
 
@@ -19,6 +19,10 @@ The interactive widgets need to be initialized each time the notebook is opened,
 - blackbody.ipynb: basics of blackbody radiation
 - NewtonianOrbit.ipynb: Kepler and the gravitational 1-body problem
 - StellarBinary.ipynb: the gravitational 2-body problem and binary stars
+
+## How to approach these notebooks
+
+However you choose, obviously. It may be worth remembering the motto that The Royal Society adopted in 1663: *Nullius in verba*, take nobody's word for it. Scientists are naturally skeptical people and will (probably correctly) assume that there are errors, programming inefficiencies and unclear explanations. You can produce something better, so go ahead and do it.
 
 ## References
 
@@ -48,11 +52,24 @@ Additionally, some of these authors supply sample code for download:
 
 - Murray and Dermott at [http://ssdbook.maths.qmul.ac.uk/addinfo/notebook.html](http://ssdbook.maths.qmul.ac.uk/addinfo/notebook.html) (Mathematica)
 
-None of my notebooks are simple translations (and Carroll/Ostlie expicitly asked me not to post such code), but borrowing some functions was useful and is acknowledged in the notebooks.
+None of my notebooks are simple translations (and Carroll/Ostlie explicitly asked me not to post such code), but borrowing some functions was useful and is acknowledged in the notebooks.
 
 ## Courses
 
-Through the kindness of friends, I am being allowed to audit a course at Steward Observatory, University of Arizona: ASTR 300A, "Dymamics and Mechanics in Astrophysics". Many thanks to Prof Kaitlin Kratter and Michael Hammer for their support in the class, and Ruth McCucheon for her help in setting it up.
+Through the kindness of friends, I am being allowed to audit a course at Steward Observatory, University of Arizona: ASTR 300A, "Dynamics and Mechanics in Astrophysics". Many thanks to Prof Kaitlin Kratter and Michael Hammer for their support in the class, and Ruth McCutcheon for her help in setting it up. I have of course tried to avoid including anything too close to graded coursework.
+
+MOOCs are a great help to those of us who are no longer full-time students. Astronomy is perhaps under-represented in a sea of computer science courses, but several proved interesting and useful.
+
+- ANU, [4 courses on astrophysics](https://www.edx.org/xseries/astrophysics) from Profs Brian Schmidt and Paul Francis
+- EPFL, [Introduction to Astrophysics](https://www.edx.org/course/introduction-astrophysics-epflx-phys-209-enx), now available in English (in French when I did it)
+- EPFL, [Space Mission Design and Operations](https://www.edx.org/course/space-mission-design-and-operations-0) is more about engineering, but the orbital mechanics is also very relevant to solar system science.
+- Caltech, [The Evolving Universe](https://www.coursera.org/learn/evolvinguniverse), Prof Djorgovski giving a broad introductory course
+- Caltech, Galaxies and Cosmology (sadly, unavailable currently), a follow-on course from Prof Djorgovski, taking you on a challenging ride into relativistic cosmology
+- Edinburgh, [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/learn/astronomy-technology), a (gentler) tour of how astronomy is done in practice
+- Caltech, [The Science of the Solar System](https://www.coursera.org/learn/solar-system), a must-take, brilliant course in which Prof Mike Brown (#plutokiller) discusses some (quite advanced) aspects of planetary science in his inimitable style
+- Sydney, [Data Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy), emphasizes computation and data handling
+- Rutgers, [Analyzing the Universe](https://www.coursera.org/learn/analyze), another data-biased course
+- Duke, Introduction to Astronomy (currently unavailable?), a broad and quite personal tour of the subject with Prof Ronen Plesser
 
 
 
