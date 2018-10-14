@@ -16,10 +16,10 @@ The interactive widgets need to be initialized each time the notebook is opened,
 
 ## Notebooks
 
-- blackbody.ipynb: basics of blackbody radiation
-- NewtonianOrbit.ipynb: Kepler and the gravitational 1-body problem
-- StellarBinary.ipynb: the gravitational 2-body problem and binary stars
-- LagrangePoints.ipynb: the restricted 3-body problem, effective potential and Roche lobes
+- radiation/1 - blackbody.ipynb: basics of blackbody radiation
+- gravity/1 - NewtonianOrbit.ipynb: Kepler and the gravitational 1-body problem
+- gravity/2 - StellarBinary.ipynb: the gravitational 2-body problem and binary stars
+- gravity/3 - LagrangePoints.ipynb: the restricted 3-body problem, effective potential and Roche lobes
 
 ## How to approach these notebooks
 
