@@ -20,7 +20,7 @@ The interactive widgets need to be initialized each time the notebook is opened,
 - gravity/1 - NewtonianOrbit.ipynb: Kepler and the gravitational 1-body problem
 - gravity/2 - StellarBinary.ipynb: the gravitational 2-body problem and binary stars
 - gravity/3 - LagrangePoints.ipynb: the restricted 3-body problem, effective potential and Roche lobes
-- gravity/spirals.ipynb: spiral galaxies *(still very incomplete)*
+- gravity/4 - SpiralGalaxies.ipynb: spiral galaxies *(still very incomplete)*
 - math/SeriesExpansions.ipynb: Taylor series, Fourier, Bessel, Legendre... *(in progress)*
 
 ## How to approach these notebooks
