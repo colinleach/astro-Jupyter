@@ -18,7 +18,8 @@ The interactive widgets need to be initialized each time the notebook is opened,
 
 Astrophysics:
 
-- radiation/1 - blackbody.ipynb: basics of blackbody radiation
+- radiation/1 - photons.ipynb: the electromagnetic spectrum, wavelength-frequency-energy conversion
+- radiation/2 - blackbody.ipynb: basics of blackbody radiation
 - gravity/1 - NewtonianOrbit.ipynb: Kepler and the gravitational 1-body problem
 - gravity/2 - StellarBinary.ipynb: the gravitational 2-body problem and binary stars
 - gravity/3 - LagrangePoints.ipynb: the restricted 3-body problem, effective potential and Roche lobes
