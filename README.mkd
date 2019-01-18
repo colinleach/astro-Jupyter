@@ -37,6 +37,7 @@ Various mathematical techniques: what they are, (briefly) why they're relevant, 
 - math/Hermite.ipynb
 - math/Legendre.ipynb
 - math/SphericalHarmonics.ipynb
+- math/Gamma.ipynb
 
 ## How to approach these notebooks
 
