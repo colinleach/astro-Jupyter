@@ -27,9 +27,10 @@ Astrophysics:
 
 Finding, manipulating, displaying data:
 
-- data/DataSources.ipynb
+- data/DataSources.ipynb - needs `astropy.coordinates` and a web connection; `astroquery` is also useful and may need to be installed separately
+- data/Coordinates.ipynb
 
-Various mathematical techniques: what they are, (briefly) why they're relevant, how to use them in Python:
+Various mathematical techniques and functions: what they are, (briefly) why they're relevant, how to use them in Python:
 
 - math/TaylorExpansions.ipynb
 - math/Fourier.ipynb
@@ -38,6 +39,7 @@ Various mathematical techniques: what they are, (briefly) why they're relevant, 
 - math/Legendre.ipynb
 - math/SphericalHarmonics.ipynb
 - math/Gamma.ipynb
+- math/Zeta.ipynb
 
 ## How to approach these notebooks
 
