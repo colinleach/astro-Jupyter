@@ -31,6 +31,14 @@ Finding, manipulating, displaying data:
 - data/Coordinates.ipynb - specifying positions on the sky
 - data/SphericalProjections.ipynb - Mollweide, etc - benefits from `astroML` and `healpy`, though the first part will run without these packages
 
+Plotting data (not _just_ Matplotlib):
+
+- plotting/1_Plotting_intro.ipynb - high level overview
+- plotting/2_Matplotlib.ipynb - inevitably
+- plotting/Seaborn.ipynb - quick and easy statistical exploration
+- plotting/Bokeh.ipynb - modern, interactive plotting on top of JavaScript
+- _(others to follow)_
+
 Various mathematical techniques and functions: what they are, (briefly) why they're relevant, how to use them in Python:
 
 - math/TaylorExpansions.ipynb
