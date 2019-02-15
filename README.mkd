@@ -30,6 +30,7 @@ Finding, manipulating, displaying data:
 - data/DataSources.ipynb - needs `astropy.coordinates` and a web connection; `astroquery` is also useful and may need to be installed separately
 - data/Coordinates.ipynb - specifying positions on the sky
 - data/SphericalProjections.ipynb - Mollweide, etc - benefits from `astroML` and `healpy`, though the first part will run without these packages
+- data/files_FITS.ipynb - the main file format for astronomical data
 
 Plotting data (not _just_ Matplotlib):
 
