@@ -34,7 +34,7 @@ Finding, manipulating, displaying data:
 - data/files_FITS.ipynb - the main file format for astronomical data
 - data/files_HDF5.ipynb - for big, hierarchical data
 
-Plotting data (not _just_ Matplotlib):
+Plotting and animating data (not _just_ Matplotlib):
 
 - plotting/1_Plotting_intro.ipynb - high level overview
 - plotting/2_Matplotlib.ipynb - inevitably
@@ -42,6 +42,8 @@ Plotting data (not _just_ Matplotlib):
 - plotting/Bokeh.ipynb - modern, interactive plotting on top of JavaScript
 - plotting/APLpy.ipynb - plot FITS images with astronomical coordinates
 - _(others to follow)_
+- animation/Animations.ipynb - overview plus examples in Matplotlib and Bokeh
+- animation/Vpython_stars.ipynb - slightly refactored version of demo code from the creator of VPython
 
 Various mathematical techniques and functions: what they are, (briefly) why they're relevant, how to use them in Python:
 
