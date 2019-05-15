@@ -6,13 +6,15 @@ There were two distinct objectives in creating these notebooks.
 
 1. I have an interest in astrophysics and am trying to learn more about it. Writing some interactive notes at the undergraduate demo level is useful practice. Obviously, this is NOT research-grade code; not even close.
 
-2. Jupyter notebooks, Matplotlib and VPython have all been under active development in recent years, adding interesting new capabilities. Inevitably, the documentation occasionally falls a little behind the pace. I have been trying to work out what can be done with the newer features (part education, part playing).
+2. Jupyter notebooks, Matplotlib and many other relevant packages have been under active development in recent years, adding interesting new capabilities. Inevitably, the documentation occasionally falls a little behind the pace. I have been trying to work out what can be done with the newer features (part education, part playing).
 
 ## Setup
 
 To run these notebooks you will need Python 3, NumPy, AstroPy and a recent (at least v 2.1) version of Matplotlib. These come standard with a default Anaconda 3 installation.
 
-The interactive widgets need to be initialized each time the notebook is opened, so it is highly recommended to start with Cell-Run All.
+Individual notebooks may need other packages (bokeh, astroml, astroquery, etc) and this will be noted. They should all be available via conda.
+
+The interactive widgets need to be initialized each time the notebook is opened, so it is highly recommended to start with Cell-Run All in nearly all cases. Animations are the main exception as these can (deliberately) include infinite loops.
 
 ## Notebooks
 
