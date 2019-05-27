@@ -1,6 +1,6 @@
 # astro-Jupyter: Simple astrophysics in Python/Jupyter
 
-**Colin Leach, 2018**
+**Colin Leach, 2018-19**
 
 There were two distinct objectives in creating these notebooks.
 

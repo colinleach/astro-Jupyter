@@ -1,0 +1,78 @@
+# Relativity
+
+My attempts to learn about special and general relativity
+
+## Notebooks
+
+- 1-SR : Special relativity
+- 2-Tensors : the mathematical basis of GR, and how to handle this in Python
+- 3-Curvature : Riemann, Ricci, Einstein tensors
+
+In preparation:
+
+- 4-Fluids : dust, perfect fluids and the energy-momentum tensor
+- 5-GR : pulling everything together in the Einstein field equations
+- 6-BlackHoles : the Schwarzschild and Kerr metrics
+
+## References
+
+### Introductory textbooks:
+
+```
+"A Most Incomprehensible Thing"
+P. Collier
+Third Edition, Incomprehensible Books, 2017
+
+"A First Course in General Relativity"
+B. Schutz
+Second Edition, Cambridge University Press, 2009
+
+"A Student's Manual for A First Course in General Relativity"
+R.B. Scott
+Cambridge University Press, 2016
+```
+Scott's student manual also has a [Maple worksheet](http://stockage.univ-brest.fr/~scott/Books/Schutz/index_schutz.html). The full version of Maple costs money but there is a [free player](https://www.maplesoft.com/products/maple/Mapleplayer/) that may be adequate.
+
+### Weightier textbooks (often literally):
+
+'MTW' is a reissue of the 1973 classic, with a new foreword by Misner and Thorne analyzing in detail which parts are dated and which are still relevant.
+
+```
+"Gravitation"
+C.W. Misner, K.S. Thorne, J.A. Wheeler
+Princeton University Press, 2017
+```
+
+```
+"Modern Classical Physics"
+K.S. Thorne, R.D. Blandford
+Princeton University Press, 2017
+
+"Einstein Gravity in a Nutshell"
+A. Zee
+Princeton University Press, 2013
+
+"General Relativity: an Introduction for Physicists"
+M.P. Hobson, G. Efstathiou, A.N. Lasenby
+Cambridge University Press, 2006
+
+"Spacetime and Geometry"
+S.M. Carroll
+Pearson, 2013
+
+"Modern General Relativity: Black Holes, Gravitational Waves and Cosmology"
+M. Guidry
+Cambridge University Press, 2019
+```
+
+### Cosmology (in addition to Guidry, which has an astronomical bias):
+
+```
+"Introduction to Cosmology"
+B. Ryden
+Addison Wesley, 2003
+
+"Extragalactic Astronomy and Cosmology"
+P. Schneider
+Second Edition, Springer, 2015
+```
