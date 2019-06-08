@@ -16,6 +16,10 @@ Individual notebooks may need other packages (bokeh, astroml, astroquery, etc) a
 
 The interactive widgets need to be initialized each time the notebook is opened, so it is highly recommended to start with Cell-Run All in nearly all cases. Animations are the main exception as these can (deliberately) include infinite loops.
 
+To run the notebooks remotely on MyBinder use the link below. Not everything works in this environment, so cloning the repo to your local machine may be better if you are comfortable installing Python packages.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/colinleach/binder-box/master/?urlpath=git-pull?repo=https://github.com/colinleach/astro-Jupyter)
+
 ## Notebooks
 
 Astrophysics:
