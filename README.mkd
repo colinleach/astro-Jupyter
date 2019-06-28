@@ -30,6 +30,7 @@ Astrophysics:
 - gravity/2 - StellarBinary.ipynb: the gravitational 2-body problem and binary stars
 - gravity/3 - LagrangePoints.ipynb: the restricted 3-body problem, effective potential and Roche lobes
 - gravity/4 - SpiralGalaxies.ipynb: spiral galaxies *(still very incomplete)*
+- gravity/5 - PlanetaryAtmospheres: a complex topic, so this file may later be split as it grows
 
 Finding, manipulating, displaying data:
 
