@@ -1,0 +1,69 @@
+# astro-Jupyter: Simple astrophysics in Python/Jupyter
+
+**Colin Leach, 2018-19**
+
+
+## References
+
+Astropy has tutorials which are already very useful and appear to be under active development. On the web at [http://www.astropy.org/astropy-tutorials/](http://www.astropy.org/astropy-tutorials/) or clone from GitHub: [https://github.com/astropy/astropy-tutorials](https://github.com/astropy/astropy-tutorials).
+
+[Tech Savvy Astro](https://techsavvyastro.io/) is a useful source of advice on software tools and training.
+
+Several standard textbooks are referenced within the notebooks. These include:
+
+```
+"An Introduction to Modern Astrophysics"
+Bradley W. Carroll and Dale A. Ostlie
+Second Edition, Addison Wesley, 2007
+
+"Principles of Astrophysics"
+Charles Keeton
+Springer, 2014
+
+"Solar System Dynamics"
+C.D. Murray and S.F. Dermott
+Cambridge University Press, 1999
+
+"Stars and Stellar Evolution"
+K.S. de Boer and W. Seggewiss
+EDP Sciences, 2008
+
+"Mathematical Methods in the Physical Sciences"
+M. Boas
+Third Edition, Wiley, 1980
+```
+
+Additionally, some of these authors supply sample code for download:
+
+- Carroll and Ostlie at [http://wps.aw.com/aw_carroll_ostlie_astro_2e/48/12319/3153834.cw/index.html](http://wps.aw.com/aw_carroll_ostlie_astro_2e/48/12319/3153834.cw/index.html) (Fortran and C++)
+
+- Murray and Dermott at [http://ssdbook.maths.qmul.ac.uk/addinfo/notebook.html](http://ssdbook.maths.qmul.ac.uk/addinfo/notebook.html) (Mathematica)
+
+None of my notebooks are simple translations (and Carroll/Ostlie explicitly asked me not to post such code), but borrowing some functions was useful and is acknowledged in the notebooks.
+
+## Courses
+
+Through the kindness of friends, I was allowed to audit some courses at Steward Observatory, University of Arizona: 
+
+- ASTR 300A, "Dynamics and Mechanics in Astrophysics", Fall 2018. Many thanks to Prof Kaitlin Kratter and Michael Hammer for their support in the class, and Ruth McCutcheon for her help in setting it up.
+- ASTR 300B, "Radiation and Matter", Spring 2019. I am grateful to Prof Yancy Shirley for this.
+
+I have of course tried to avoid including anything too close to graded coursework.
+
+Next, onwards to ASTR 400A, "Theoretical Astrophysics" (Prof Nathan Smith) and PTYS 450, "Origin of the Solar System and Other Planetary Systems" (Prof Ilaria Pascucci) in Fall 2019.
+
+MOOCs are a great help to those of us who are no longer full-time students. Astronomy is perhaps under-represented in a sea of computer science courses, but several proved interesting and useful.
+
+- ANU, [4 courses on astrophysics](https://www.edx.org/xseries/astrophysics) from Profs Brian Schmidt and Paul Francis
+- EPFL, [Introduction to Astrophysics](https://www.edx.org/course/introduction-astrophysics-epflx-phys-209-enx), now available in English (in French when I did it)
+- EPFL, [Space Mission Design and Operations](https://www.edx.org/course/space-mission-design-and-operations-0) is more about engineering, but the orbital mechanics is also very relevant to solar system science.
+- Caltech, [The Evolving Universe](https://www.coursera.org/learn/evolvinguniverse), Prof Djorgovski giving a broad introductory course
+- Caltech, Galaxies and Cosmology (sadly, unavailable currently), a follow-on course from Prof Djorgovski, taking you on a challenging ride into relativistic cosmology
+- Edinburgh, [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/learn/astronomy-technology), a (gentler) tour of how astronomy is done in practice
+- Caltech, [The Science of the Solar System](https://www.coursera.org/learn/solar-system), a must-take, brilliant course in which Prof Mike Brown (@plutokiller) discusses some (quite advanced) aspects of planetary science in his inimitable style
+- Sydney, [Data Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy), emphasizes computation and data handling
+- Rutgers, [Analyzing the Universe](https://www.coursera.org/learn/analyze), another data-biased course
+- Duke, Introduction to Astronomy (currently unavailable?), a broad and quite personal tour of the subject with Prof Ronen Plesser
+
+
+
