@@ -32,6 +32,7 @@ Astrophysics:
 - gravity/4 - SpiralGalaxies.ipynb: spiral galaxies *(still very incomplete)*
 - gravity/5 - PlanetaryAtmospheres.ipynb: a complex topic, so this file may later be split as it grows
 - gravity/6 - SolarSystemResonances.ipynb: asteroids, planets, and how they affect each other
+- gravity/7 - RadialVelocity.ipynb: simulation exoplanet RV curves
 - relativity/* - a series of notebooks on SR and GR (in progress). See relativity/README.mkd for more details.
 - rebound/* - various N-body simulations with the REBOUND package. This will only work on Linux and Mac, not Windows, so I have kept it separate from the other gravity notebooks. See rebound/README.mkd for more details.
 
@@ -65,6 +66,11 @@ Various mathematical techniques and functions: what they are, (briefly) why they
 - math/SphericalHarmonics.ipynb
 - math/Gamma.ipynb
 - math/Zeta.ipynb
+
+Programming tricks:
+
+- performance/1 - Speeding up Python programs.ipynb
+- performance/2 - Numba.ipynb
 
 ## How to approach these notebooks
 
