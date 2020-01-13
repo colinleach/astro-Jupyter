@@ -45,17 +45,6 @@ Finding, manipulating, displaying data:
 - data/files_FITS.ipynb - the main file format for astronomical data
 - data/files_HDF5.ipynb - for big, hierarchical data
 
-Plotting and animating data (not _just_ Matplotlib):
-
-- plotting/1_Plotting_intro.ipynb - high level overview
-- plotting/2_Matplotlib.ipynb - inevitably
-- plotting/Seaborn.ipynb - quick and easy statistical exploration
-- plotting/Bokeh.ipynb - modern, interactive plotting on top of JavaScript
-- plotting/APLpy.ipynb - plot FITS images with astronomical coordinates
-- _(others to follow)_
-- animation/Animations.ipynb - overview plus examples in Matplotlib and Bokeh
-- animation/Vpython_stars.ipynb - slightly refactored version of demo code from the creator of VPython
-
 Various mathematical techniques and functions: what they are, (briefly) why they're relevant, how to use them in Python:
 
 - math/TaylorExpansions.ipynb
@@ -67,10 +56,7 @@ Various mathematical techniques and functions: what they are, (briefly) why they
 - math/Gamma.ipynb
 - math/Zeta.ipynb
 
-Programming tricks:
-
-- performance/1 - Speeding up Python programs.ipynb
-- performance/2 - Numba.ipynb
+Folders on plotting, animation and code performance have now been moved to the [tinkerings repo](https://github.com/colinleach/tinkerings)
 
 ## How to approach these notebooks
 
@@ -78,4 +64,4 @@ However you choose, obviously. It may be worth remembering the motto that The Ro
 
 ## References
 
-See the separate refs.mkd file\, plus some individual notebooks for more specialist sources.
+See the separate `refs.mkd` file, plus some individual notebooks for more specialist sources.
